@@ -31,10 +31,8 @@
 		<string>g</string>
 		<string>x</string>
 		<string>z</string>
-		<string>egrave</string>
 		<string>period</string>
 		<string>acute</string>
-		<string>eacute</string>
 		<string>grave</string>
 		<string>quotesingle</string>
 		<string>a</string>
@@ -67,16 +65,68 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>M</string>
-		<string>agrave</string>
-		<string>aacute</string>
-		<string>Egrave</string>
-		<string>Eacute</string>
-		<string>Aacute</string>
-		<string>Agrave</string>
 		<string>hyphen</string>
 		<string>emdash</string>
 		<string>parenleft</string>
 		<string>parenright</string>
+		<string>eacute</string>
+		<string>egrave</string>
+		<string>agrave</string>
+		<string>aacute</string>
+		<string>Egrave</string>
+		<string>Eacute</string>
+		<string>slash</string>
+		<string>backslash</string>
+		<string>plus</string>
+		<string>periodcentered</string>
+		<string>colon</string>
+		<string>semicolon</string>
+		<string>question</string>
+		<string>exclam</string>
+		<string>Agrave</string>
+		<string>Aacute</string>
+		<string>asterisk</string>
+		<string>quoteright</string>
+		<string>quoteleft</string>
+		<string>quotedblright</string>
+		<string>quotedblleft</string>
+		<string>quotedbl</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>zero</string>
+		<string>six</string>
+		<string>nine</string>
+		<string>equal</string>
+		<string>ampersand</string>
+		<string>circumflex</string>
+		<string>ecircumflex</string>
+		<string>oacute</string>
+		<string>ocircumflex</string>
+		<string>ucircumflex</string>
+		<string>uacute</string>
+		<string>ugrave</string>
+		<string>dotlessi</string>
+		<string>icircumflex</string>
+		<string>idieresis</string>
+		<string>dieresis</string>
+		<string>dieresis#1</string>
+		<string>dieresis#2</string>
+		<string>Icircumflex</string>
+		<string>Idieresis</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Ugrave</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Ecircumflex</string>
+		<string>ccedilla</string>
+		<string>cedilla</string>
+		<string>Ccedilla</string>
 	</array>
 </dict>
 </plist>
